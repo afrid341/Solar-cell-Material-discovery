@@ -12,3 +12,4 @@ The file **cp2k_input_file.inp** is used to perform the bandgap calculations on 
 Once the structures are converged we use the **Featurelist.ipynb** notebook for fingerprinting the features, the dataset then generated is further send to the Ml notebook for model development with the **bandgap_machine_learning_model_no_rec_feelim.ipynb**
 
 # 4. For further reference please refer my thesis
+https://tigerprints.clemson.edu/all_theses/3620/
