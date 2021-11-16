@@ -9,7 +9,6 @@ The **xyz_modifier_module.py** further rearranges the xyz files based on a set f
 The file **cp2k_input_file.inp** is used to perform the bandgap calculations on CP2K.
 
 # 3. Post DFT
-Once the structures are converged we use the **Featurelist.ipynb** notebook for fingerprinting the features, the dataset then generated is further send to the Ml notebook for model development.
+Once the structures are converged we use the **Featurelist.ipynb** notebook for fingerprinting the features, the dataset then generated is further send to the Ml notebook for model development with the **bandgap_machine_learning_model_no_rec_feelim.ipynb**
 
 # 4. For further reference please refer my thesis
-
